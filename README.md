@@ -32,5 +32,4 @@ See README sections in frontend/ and backend/ for setup. Includes discount logic
 ## 🖼️ Screenshots
 | Products | Cart | Checkout |
 |-----------|------|-----------|
-| ![Products](./screenshots/screenshots.png) | ![Cart](./screenshots/screenshots.png) | ![Checkout](./screenshots/screenshots.png) |
 
